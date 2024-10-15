@@ -44,7 +44,7 @@ This project is a Kanban board application built using ReactJS. It allows users 
 2. **Navigate to the Project Directory:**
 
    ```bash
-   cd kanban-board-app
+   cd quicksellfrontend
    ```
 
 3. **Install Dependencies:**
